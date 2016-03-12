@@ -41,7 +41,7 @@ import android.preference.PreferenceScreen;
 import android.text.TextUtils;
 import android.view.MenuItem;
 
-import com.android.internal.util.cm.ScreenType;
+import com.android.internal.util.slim.ScreenType;
 import com.cyanogenmod.settings.device.utils.Constants;
 
 import java.util.ArrayList;
