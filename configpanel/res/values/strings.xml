@@ -53,6 +53,8 @@
     <string name="oclick_notification_title_disconnected">O-Click disconnected</string>
     <string name="oclick_notification_content_disconnected">Press the O-Click button to reconnect</string>
 
+    <string name="button_panel_dashboard_summary">Manage notification slider buttons</string>
+
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Notification slider</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
